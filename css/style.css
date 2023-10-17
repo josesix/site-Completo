@@ -1,0 +1,129 @@
+.nav-top {
+    background-color: rgb(47, 47, 114) !important;
+}
+
+
+.nav-menu {
+    color: white !important;
+}
+
+
+.img-car {
+    max-height: 600px !important;
+}
+
+
+.divisao {
+    background-color: rgb(47, 47, 114) !important;
+}
+
+
+.sec-pacotes {
+    margin-left: 15% !important;
+    margin-right: 15% !important;
+}
+
+
+.sec-pacotes {
+    text-align: justify !important;
+}
+
+
+
+#pacotes{
+    margin-left: 1em;
+    padding: 1em;
+}
+
+
+
+.card {
+    margin-left: 1em !important;
+    margin-top: 1em !important;
+    margin-bottom: 1em !important;
+    padding: 1em !important;
+}
+
+
+footer {
+    text-align: center;
+    background-color: rgb(47, 47, 114) !important;
+    color: #fff !important;
+
+}
+
+
+form {
+    padding-top: 1em !important;
+    padding-left: 1em !important;
+    padding-bottom: 3em !important;
+    padding-right: 10em !important;
+}
+
+
+/* Estilos para o formulário de contato */
+.form-label {
+    height: auto !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    font-weight: bold !important;
+
+}
+
+
+.form-control {
+    padding: 0;
+    margin: 0;
+    width: 90% !important;
+    padding: 10px !important;
+}
+
+
+.botao-enviar {
+    margin: 0 0 3% 0 !important;
+}
+
+
+/* Estilos para a seção de redes sociais e endereço */
+.contato-rede {
+    padding: 0 !important;
+    margin: 2% 0.1% !important;
+    flex: 1 !important;
+    text-align: center !important;
+}
+
+
+.conteudo-contato {
+    padding: 20px !important;
+    background-color: #fff !important;
+    border: 1px solid #ccc !important;
+    border-radius: 5px !important;
+}
+
+
+/* Estilos para os ícones de redes sociais */
+.contato-sociais {
+    display: flex !important;
+    justify-content: space-around !important;
+    margin: 20px 0 !important;
+}
+
+
+/* Estilos para os títulos das redes sociais */
+h3 {
+    font-size: 15px !important;
+    color: #0c0c0c !important;
+}
+
+
+/* Estilos para o mapa incorporado */
+.contato-endereco {
+    margin-top: 20px !important;
+}
+
+
+iframe {
+    width: 100% !important;
+    height: 250px !important;
+    border: 0 !important;
+}
